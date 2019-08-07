@@ -1,7 +1,7 @@
 # Rails + VueJS: современный фронтенд. Онлайн-интенсив.
 ![](https://i.ibb.co/CMQwLh3/Rails-Vue-JS.jpg)
 ## :mortar_board: Требования к участникам
-1. Знание Ruby on Rails на junior уровне :muscle:. Желательно успешно закончить курс [Thinknetica](https://thinknetica.com/).
+1. Знание Ruby on Rails на junior уровне и выше :muscle:. Желательно успешно закончить курс [Thinknetica](https://thinknetica.com/).
 2. Общие знания JavaScript.
 
 ## :movie_camera: Презентация
