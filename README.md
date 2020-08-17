@@ -28,7 +28,7 @@
 
 1.5. Взаимосвязь Rails и VueJS приложений. Точки соединения и необходимые шаги для разделения монолитного приложения в будущем.
 
-:wrench: **Инструменты:** Rails 5.2+, devise, yarn, webpack, webpacker, vueJS
+:wrench: **Инструменты:** Rails 6, devise, yarn, webpack, webpacker, vueJS
 
 :muscle: **Получаемые навыки:**
 - Понимание современных возможностей JavaScript,
